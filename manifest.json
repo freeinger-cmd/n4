@@ -2,7 +2,7 @@
   "name": "N4 日語學習",
   "short_name": "N4日語",
   "description": "JLPT N4 單字、文法、聽力練習",
-  "start_url": "/",
+  "start_url": "/n4/",
   "display": "standalone",
   "background_color": "#0f0f1a",
   "theme_color": "#1a1a2e",
